@@ -207,4 +207,4 @@ This repository serves as the official landing page for Spia 2.2 Encaps. The sof
 **Get the most recent version of Spia 2.2 Encaps today!**
 
 ---
-**Last updated:** 2026-11-07 22:27:04 UTC
+**Last updated:** 2026-11-08 01:58:05 UTC
